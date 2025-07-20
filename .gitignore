@@ -1,3 +1,6 @@
+# priv
+server/db.json
+
 # Logs
 logs
 *.log
